@@ -34,3 +34,7 @@ __Education__
 __English__
 
 Pre Intermediate
+
+__Arabic__
+
+Intermediate
