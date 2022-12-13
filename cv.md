@@ -29,7 +29,7 @@ alert( result );
 
 __Education__
 
-* University: Oil&Gas University
+* University: Oil&Gas University, KZ
 
 __English__
 
