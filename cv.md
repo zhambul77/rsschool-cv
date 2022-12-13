@@ -14,7 +14,6 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 __Skills__
 
-* HTML
 * JS (Basic)
 * Git
 
